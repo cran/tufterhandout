@@ -1,0 +1,13 @@
+e54e7cebd6c9f99f4b9998d3836c93b3 *DESCRIPTION
+196de712e9d6aebe660c2b7eb51ba861 *LICENSE
+84463716b5d52c1d876da43c696927f5 *NAMESPACE
+ec5734eee83d6eab696422bb13323c06 *NEWS
+efff050d19434dbcce44f4909351b556 *R/html_tufte_handout.R
+65ebb32359a69e1e95a07b4d15db1326 *README.md
+06aa188afac97c82b44a08a2618529d5 *build/vignette.rds
+b10ffae89fdf310db13a9981d5000717 *inst/doc/example.R
+3c96dd8d2497e61b3c8aa6c532d93f5f *inst/doc/example.Rmd
+5700c65e00cca7f40bd4407f98f26dc6 *inst/doc/example.html
+96b6934ecdcc4a223e22986c431b904f *inst/tufterhandout.css
+a8564f386b27b673b51198e0bded3913 *man/html_tufte_handout.Rd
+3c96dd8d2497e61b3c8aa6c532d93f5f *vignettes/example.Rmd
