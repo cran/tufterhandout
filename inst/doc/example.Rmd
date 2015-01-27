@@ -1,6 +1,9 @@
 ---
-title: "example"
-output: tufterhandout::html_tufte_handout
+title: "Tufte-style Handouts for Web Use"
+author: "Michael C Sachs"
+date: "`r Sys.Date()`"
+output: 
+  tufterhandout::html_tufte_handout
 vignette: >
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteIndexEntry{Tufte-style HTML in rmarkdown}

@@ -1,19 +1,20 @@
 Package: tufterhandout
 Type: Package
 Title: Tufte-style html document format for rmarkdown
-Version: 1.2
-Date: 2014-11-07
-Author: Michael Sachs
-Maintainer: Michael Sachs <sachsmc@gmail.com>
+Version: 1.2.1
+Date: 2015-01-27
+Author: Michael C Sachs
+Maintainer: Michael C Sachs <sachsmc@gmail.com>
 Description: Custom template and output formats for use with rmarkdown. Produce
     Edward Tufte-style handouts in html formats with full support for rmarkdown
     features
 License: MIT + file LICENSE
 URL: http://sachsmc.github.io/tufterhandout
-Depends: rmarkdown, knitr
-Suggests: ggplot2
+BugReports: http://github.com/sachsmc/tufterhandout/issues
+Depends: rmarkdown, knitr, utils
+Suggests: ggplot2, testthat
 VignetteBuilder: knitr
-Packaged: 2014-11-12 16:04:09 UTC; sachsmc
+Packaged: 2015-01-27 19:24:19 UTC; sachsmc
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2014-11-12 18:28:26
+Date/Publication: 2015-01-27 22:29:21
